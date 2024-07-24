@@ -1,0 +1,9 @@
+# Ignore data, logs, and results directories
+data/
+logs/
+results/
+
+# Ignore any temporary files or specific patterns
+*.tmp
+*.log
+
