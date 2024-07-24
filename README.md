@@ -2,5 +2,5 @@
 
 # Transposable Elements Analysis Pipeline GERMLINE SAMPLES
 
-# Usage: ./TE-LFS-germline-pipe.sh /path/to/bamdir
+Usage: ./TE-LFS-germline-pipe.sh /path/to/bamdir
 
